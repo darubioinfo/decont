@@ -15,4 +15,17 @@
 #   > this is another sequence
 #   CCAGGATTTACAGACTTTAAA
 #
-#   If $4 == "another" only the **first two sequence** should be output
+#If $4 == "another" only the **first two sequence** should be output
+
+
+#DOWLOAD by David
+
+echo "Downloading samples..."
+
+wget -P ~/data -i urls.txt
+
+#url_samples=$1
+#out_samples=$2
+#uncompress_samples=$3
+
+
