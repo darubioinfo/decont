@@ -1,0 +1,251 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en-GB" class="html_stretched responsive av-preloader-active av-preloader-enabled av-default-lightbox  html_header_top html_logo_left html_main_nav_header html_menu_right html_large html_header_sticky html_header_shrinking_disabled html_mobile_menu_phone html_disabled html_header_searchicon html_content_align_center html_header_unstick_top html_header_stretch_disabled html_minimal_header html_minimal_header_shadow html_elegant-blog html_entry_id_543 av-no-preview ">
+<head>
+<meta charset="UTF-8" />
+<meta name="robots" content="index, follow" />
+
+
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+<!-- Scripts/CSS and wp_head hook -->
+<title>Pandrugs &#8211; CNIO Bioinformatics Unit</title>
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="CNIO Bioinformatics Unit &raquo; Feed" href="https://bioinformatics.cnio.es/feed/" />
+
+<!-- google webfont font replacement -->
+<link rel='stylesheet' id='avia-google-webfont' href='//fonts.googleapis.com/css?family=Open+Sans:400,600%7CLato:300,400,700' type='text/css' media='all'/> 
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/bioinformatics.cnio.es\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.8"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='https://bioinformatics.cnio.es/wp-includes/css/dist/block-library/style.min.css?ver=5.6.8' type='text/css' media='all' />
+<link rel='stylesheet' id='ctf_styles-css'  href='https://bioinformatics.cnio.es/wp-content/plugins/custom-twitter-feeds/css/ctf-styles.min.css?ver=1.7' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-grid-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/css/grid.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-base-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/css/base.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-layout-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/css/layout.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-scs-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/css/shortcodes.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-popup-css-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/js/aviapopup/magnific-popup.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-media-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1' type='text/css' media='screen' />
+<link rel='stylesheet' id='avia-print-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/css/print.css?ver=1' type='text/css' media='print' />
+<link rel='stylesheet' id='avia-dynamic-css'  href='https://bioinformatics.cnio.es/wp-content/uploads/dynamic_avia/enfold_child.css?ver=5af9b43027cc9' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-custom-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold/css/custom.css?ver=2' type='text/css' media='all' />
+<link rel='stylesheet' id='avia-style-css'  href='https://bioinformatics.cnio.es/wp-content/themes/enfold-child/style.css?ver=2' type='text/css' media='all' />
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-content/themes/enfold/js/avia-compat.js?ver=2' id='avia-compat-js'></script>
+<link rel="https://api.w.org/" href="https://bioinformatics.cnio.es/wp-json/" /><link rel="alternate" type="application/json" href="https://bioinformatics.cnio.es/wp-json/wp/v2/pages/543" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://bioinformatics.cnio.es/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://bioinformatics.cnio.es/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.8" />
+<link rel="canonical" href="https://bioinformatics.cnio.es/pandrugs/" />
+<link rel='shortlink' href='https://bioinformatics.cnio.es/?p=543' />
+<link rel="alternate" type="application/json+oembed" href="https://bioinformatics.cnio.es/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fbioinformatics.cnio.es%2Fpandrugs%2F" />
+<link rel="profile" href="http://gmpg.org/xfn/11" />
+<link rel="alternate" type="application/rss+xml" title="CNIO Bioinformatics Unit RSS2 Feed" href="https://bioinformatics.cnio.es/feed/" />
+<link rel="pingback" href="https://bioinformatics.cnio.es/xmlrpc.php" />
+<!--[if lt IE 9]><script src="https://bioinformatics.cnio.es/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->
+<link rel="icon" href="https://bioinformatics.cnio.es/wp-content/uploads/2018/05/favicon-96x96.png" type="image/png">
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 4.0.2
+Installed: enfold
+AviaFramework Version: 4.6
+AviaBuilder Version: 0.9.5
+- - - - - - - - - - -
+ChildTheme: Enfold Child
+ChildTheme Version: 1.0
+ChildTheme Installed: enfold
+
+ML:128-PU:8-PLA:8
+WP:5.6.8
+Updates: disabled
+-->
+
+<style type='text/css'>
+@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+src: url('https://bioinformatics.cnio.es/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3');
+src: url('https://bioinformatics.cnio.es/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), 
+url('https://bioinformatics.cnio.es/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=3') format('woff'), 
+url('https://bioinformatics.cnio.es/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=3') format('truetype'), 
+url('https://bioinformatics.cnio.es/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=3#entypo-fontello') format('svg');
+} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+
+@font-face {font-family: 'light_'; font-weight: normal; font-style: normal;
+src: url('https://bioinformatics.cnio.es/wp-content/uploads/avia_fonts/light_/light_.eot');
+src: url('https://bioinformatics.cnio.es/wp-content/uploads/avia_fonts/light_/light_.eot?#iefix') format('embedded-opentype'), 
+url('https://bioinformatics.cnio.es/wp-content/uploads/avia_fonts/light_/light_.woff') format('woff'), 
+url('https://bioinformatics.cnio.es/wp-content/uploads/avia_fonts/light_/light_.ttf') format('truetype'), 
+url('https://bioinformatics.cnio.es/wp-content/uploads/avia_fonts/light_/light_.svg#light_') format('svg');
+} #top .avia-font-light_, body .avia-font-light_, html body [data-av_iconfont='light_']:before{ font-family: 'light_'; }
+</style><script type='text/javascript'>var avia_preview = {"error":"It seems you are currently adding some HTML markup or other special characters. Once all HTML tags are closed the preview will be available again. If this message persists please check your input for special characters and try to remove them.","paths":"<link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/css\/grid.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/css\/base.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/css\/layout.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/css\/shortcodes.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/js\/aviapopup\/magnific-popup.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/js\/mediaelement\/skin-1\/mediaelementplayer.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/css\/custom.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/uploads\/dynamic_avia\/enfold_child.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold-child\/style.css?ver=0.9.5' type='text\/css' media='all' \/><link rel='stylesheet' href='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/css\/admin-preview.css?ver=0.9.5' type='text\/css' media='all' \/><script type='text\/javascript' src='https:\/\/bioinformatics.cnio.es\/wp-includes\/js\/jquery\/jquery.js?ver=0.9.5'><\/script><script type='text\/javascript' src='https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/js\/avia-admin-preview.js?ver=0.9.5'><\/script>\n<!-- google webfont font replacement -->\n<link rel='stylesheet' id='avia-google-webfont' href='\/\/fonts.googleapis.com\/css?family=Open+Sans:400,600%7CLato:300,400,700' type='text\/css' media='all'\/> \n\n<!-- google webfont font replacement -->\n<link rel='stylesheet' id='avia-google-webfont' href='\/\/fonts.googleapis.com\/css?family=Open+Sans:400,600%7CLato:300,400,700' type='text\/css' media='all'\/> \n<style type='text\/css'>\n@font-face {font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;\nsrc: url('https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/config-templatebuilder\/avia-template-builder\/assets\/fonts\/entypo-fontello.eot?v=3');\nsrc: url('https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/config-templatebuilder\/avia-template-builder\/assets\/fonts\/entypo-fontello.eot?v=3#iefix') format('embedded-opentype'), \nurl('https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/config-templatebuilder\/avia-template-builder\/assets\/fonts\/entypo-fontello.woff?v=3') format('woff'), \nurl('https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/config-templatebuilder\/avia-template-builder\/assets\/fonts\/entypo-fontello.ttf?v=3') format('truetype'), \nurl('https:\/\/bioinformatics.cnio.es\/wp-content\/themes\/enfold\/config-templatebuilder\/avia-template-builder\/assets\/fonts\/entypo-fontello.svg?v=3#entypo-fontello') format('svg');\n} #top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }\n\n@font-face {font-family: 'light_'; font-weight: normal; font-style: normal;\nsrc: url('https:\/\/bioinformatics.cnio.es\/wp-content\/uploads\/avia_fonts\/light_\/light_.eot');\nsrc: url('https:\/\/bioinformatics.cnio.es\/wp-content\/uploads\/avia_fonts\/light_\/light_.eot?#iefix') format('embedded-opentype'), \nurl('https:\/\/bioinformatics.cnio.es\/wp-content\/uploads\/avia_fonts\/light_\/light_.woff') format('woff'), \nurl('https:\/\/bioinformatics.cnio.es\/wp-content\/uploads\/avia_fonts\/light_\/light_.ttf') format('truetype'), \nurl('https:\/\/bioinformatics.cnio.es\/wp-content\/uploads\/avia_fonts\/light_\/light_.svg#light_') format('svg');\n} #top .avia-font-light_, body .avia-font-light_, html body [data-av_iconfont='light_']:before{ font-family: 'light_'; }\n<\/style>","title":"Element Preview","background":"Set preview background:"}; 
+</script>
+</head>
+
+
+
+
+<body id="top" class="page-template-default page page-id-543 stretched open_sans no_sidebar_border" itemscope="itemscope" itemtype="https://schema.org/WebPage" >
+
+	<div class='av-siteloader-wrap '><div class='av-siteloader-inner'><div class='av-siteloader-cell'><div class='av-siteloader'><div class='av-siteloader-extra'></div></div></div></div></div>
+	<div id='wrap_all'>
+
+	
+<header id='header' class='all_colors header_color light_bg_color  av_header_top av_logo_left av_main_nav_header av_menu_right av_large av_header_sticky av_header_shrinking_disabled av_header_stretch_disabled av_mobile_menu_phone av_header_searchicon av_header_unstick_top av_seperator_small_border av_minimal_header av_minimal_header_shadow av_bottom_nav_disabled '  role="banner" itemscope="itemscope" itemtype="https://schema.org/WPHeader" >
+
+<a id="advanced_menu_toggle" href="#" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a><a id="advanced_menu_hide" href="#" 	aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'></a>		<div  id='header_main' class='container_wrap container_wrap_logo'>
+	
+        <div class='container av-logo-container'><div class='inner-container'><strong class='logo'><a href='https://bioinformatics.cnio.es/'><img height='100' width='300' src='https://bioinformatics.cnio.es/wp-content/uploads/2018/04/Logo_BU.png' alt='CNIO Bioinformatics Unit' /></a></strong><nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" ><div class="avia-menu av-main-nav-wrap av_menu_icon_beside"><ul id="avia-menu" class="menu av-main-nav"><li id="menu-item-1593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-top-level menu-item-top-level-1"><a href="https://bioinformatics.cnio.es/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">HOME</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1608" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-2"><a href="https://bioinformatics.cnio.es/people/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PEOPLE</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1607" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-3"><a href="https://bioinformatics.cnio.es/research/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">RESEARCH</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1603" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-4"><a href="https://bioinformatics.cnio.es/tools/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">TOOLS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1606" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-5"><a href="https://bioinformatics.cnio.es/publications/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">PUBLICATIONS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-6"><a href="https://bioinformatics.cnio.es/training/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">TRAINING</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1604" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-top-level menu-item-top-level-7"><a href="https://bioinformatics.cnio.es/contact/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CONTACT</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-search" class="noMobile menu-item menu-item-search-dropdown menu-item-avia-special">
+							<a href="?s=" data-avia-search-tooltip="
+
+&lt;form action=&quot;https://bioinformatics.cnio.es/&quot; id=&quot;searchform&quot; method=&quot;get&quot; class=&quot;&quot;&gt;
+	&lt;div&gt;
+		&lt;input type=&quot;submit&quot; value=&quot;&quot; id=&quot;searchsubmit&quot; class=&quot;button avia-font-entypo-fontello&quot; /&gt;
+		&lt;input type=&quot;text&quot; id=&quot;s&quot; name=&quot;s&quot; value=&quot;&quot; placeholder='Search' /&gt;
+			&lt;/div&gt;
+&lt;/form&gt;" aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Search</span></a>
+	        		   </li></ul></div><ul class='noLightbox social_bookmarks icon_count_3'><li class='social_bookmarks_mail av-social-link-mail social_icon_1'><a  href='https://bioinformatics.cnio.es/contact/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Mail'><span class='avia_hidden_link_text'>Mail</span></a></li><li class='social_bookmarks_twitter av-social-link-twitter social_icon_2'><a target='_blank' href='https://twitter.com/BU_CNIO' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Twitter'><span class='avia_hidden_link_text'>Twitter</span></a></li><li class='social_bookmarks_rss av-social-link-rss social_icon_3'><a  href='https://bioinformatics.cnio.es/feed/' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello' title='Rss'><span class='avia_hidden_link_text'>Rss</span></a></li></ul></nav></div> </div> 
+		<!-- end container_wrap-->
+		</div>
+		
+		<div class='header_bg'></div>
+
+<!-- end header -->
+</header>
+		
+	<div id='main' class='all_colors' data-scroll-offset='116'>
+
+	
+		<div class='container_wrap container_wrap_first main_color fullsize'>
+
+			<div class='container'>
+
+				<main class='template-page content  av-content-full alpha units'  role="main" itemprop="mainContentOfPage" >
+
+                    
+		<article class='post-entry post-entry-type-page post-entry-543'  itemscope="itemscope" itemtype="https://schema.org/CreativeWork" >
+
+			<div class="entry-content-wrapper clearfix">
+                <header class="entry-content-header"></header><div class="entry-content"  itemprop="text" ></div><footer class="entry-footer"></footer>			</div>
+
+		</article><!--end post-entry-->
+
+
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+						<div class='container_wrap footer_color' id='footer'>
+
+					<div class='container'>
+
+						<div class='flex_column av_one_third  first el_before_av_one_third'><section id="media_image-2" class="widget clearfix widget_media_image"><a href="https://www.cnio.es/ing/index.asp"><img width="315" height="90" src="https://bioinformatics.cnio.es/wp-content/uploads/2018/04/CNIO_STOPCANCER_POS.jpg" class="image wp-image-1453  attachment-315x90 size-315x90" alt="" loading="lazy" style="max-width: 100%; height: auto;" /></a><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_third  el_after_av_one_third  el_before_av_one_third '><section id="media_image-7" class="widget clearfix widget_media_image"><img width="2860" height="399" src="https://bioinformatics.cnio.es/wp-content/uploads/2021/12/ISCIII_FEDER_lema_horizontal_2.png" class="image wp-image-3039  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /><span class="seperator extralight-border"></span></section></div><div class='flex_column av_one_third  el_after_av_one_third  el_before_av_one_third '><section id="media_image-8" class="widget clearfix widget_media_image"><img width="899" height="220" src="https://bioinformatics.cnio.es/wp-content/uploads/2018/05/Footer3.png" class="image wp-image-1729  attachment-full size-full" alt="" loading="lazy" style="max-width: 100%; height: auto;" /><span class="seperator extralight-border"></span></section></div>
+
+					</div>
+
+
+				<!-- ####### END FOOTER CONTAINER ####### -->
+				</div>
+
+	
+
+
+			
+
+			
+				<footer class='container_wrap socket_color' id='socket'  role="contentinfo" itemscope="itemscope" itemtype="https://schema.org/WPFooter" >
+                    <div class='container'>
+
+                        <span class='copyright'>&copy; Copyright  - <a href='https://bioinformatics.cnio.es/'>CNIO Bioinformatics Unit</a></span>
+
+                        
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+					<!-- end main -->
+		</div>
+		
+		<!-- end wrap_all --></div>
+
+
+ <script type='text/javascript'>
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'https://bioinformatics.cnio.es/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'https://bioinformatics.cnio.es/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'https://bioinformatics.cnio.es/wp-admin/admin-ajax.php';
+/* ]]> */ 
+</script>
+ 
+ <script type='text/javascript' src='https://bioinformatics.cnio.es/wp-content/themes/enfold/js/avia.js?ver=3' id='avia-default-js'></script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-content/themes/enfold/js/shortcodes.js?ver=3' id='avia-shortcodes-js'></script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-content/themes/enfold/js/aviapopup/jquery.magnific-popup.min.js?ver=2' id='avia-popup-js'></script>
+<script type='text/javascript' id='mediaelement-core-js-before'>
+var mejsL10n = {"language":"en","strings":{"mejs.download-file":"Download File","mejs.install-flash":"You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/","mejs.fullscreen":"Fullscreen","mejs.play":"Play","mejs.pause":"Pause","mejs.time-slider":"Time Slider","mejs.time-help-text":"Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.","mejs.live-broadcast":"Live Broadcast","mejs.volume-help-text":"Use Up\/Down Arrow keys to increase or decrease volume.","mejs.unmute":"Unmute","mejs.mute":"Mute","mejs.volume-slider":"Volume Slider","mejs.video-player":"Video Player","mejs.audio-player":"Audio Player","mejs.captions-subtitles":"Captions\/Subtitles","mejs.captions-chapters":"Chapters","mejs.none":"None","mejs.afrikaans":"Afrikaans","mejs.albanian":"Albanian","mejs.arabic":"Arabic","mejs.belarusian":"Belarusian","mejs.bulgarian":"Bulgarian","mejs.catalan":"Catalan","mejs.chinese":"Chinese","mejs.chinese-simplified":"Chinese (Simplified)","mejs.chinese-traditional":"Chinese (Traditional)","mejs.croatian":"Croatian","mejs.czech":"Czech","mejs.danish":"Danish","mejs.dutch":"Dutch","mejs.english":"English","mejs.estonian":"Estonian","mejs.filipino":"Filipino","mejs.finnish":"Finnish","mejs.french":"French","mejs.galician":"Galician","mejs.german":"German","mejs.greek":"Greek","mejs.haitian-creole":"Haitian Creole","mejs.hebrew":"Hebrew","mejs.hindi":"Hindi","mejs.hungarian":"Hungarian","mejs.icelandic":"Icelandic","mejs.indonesian":"Indonesian","mejs.irish":"Irish","mejs.italian":"Italian","mejs.japanese":"Japanese","mejs.korean":"Korean","mejs.latvian":"Latvian","mejs.lithuanian":"Lithuanian","mejs.macedonian":"Macedonian","mejs.malay":"Malay","mejs.maltese":"Maltese","mejs.norwegian":"Norwegian","mejs.persian":"Persian","mejs.polish":"Polish","mejs.portuguese":"Portuguese","mejs.romanian":"Romanian","mejs.russian":"Russian","mejs.serbian":"Serbian","mejs.slovak":"Slovak","mejs.slovenian":"Slovenian","mejs.spanish":"Spanish","mejs.swahili":"Swahili","mejs.swedish":"Swedish","mejs.tagalog":"Tagalog","mejs.thai":"Thai","mejs.turkish":"Turkish","mejs.ukrainian":"Ukrainian","mejs.vietnamese":"Vietnamese","mejs.welsh":"Welsh","mejs.yiddish":"Yiddish"}};
+</script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.16' id='mediaelement-core-js'></script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.6.8' id='mediaelement-migrate-js'></script>
+<script type='text/javascript' id='mediaelement-js-extra'>
+/* <![CDATA[ */
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/","classPrefix":"mejs-","stretching":"responsive"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=5.6.8' id='wp-mediaelement-js'></script>
+<script type='text/javascript' src='https://bioinformatics.cnio.es/wp-includes/js/wp-embed.min.js?ver=5.6.8' id='wp-embed-js'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-119046407-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-119046407-1');
+</script>
+<a href='#top' title='Scroll to top' id='scroll-top-link' aria-hidden='true' data-av_icon='' data-av_iconfont='entypo-fontello'><span class="avia_hidden_link_text">Scroll to top</span></a>
+
+<div id="fb-root"></div>
+</body>
+</html>
