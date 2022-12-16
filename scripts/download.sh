@@ -15,7 +15,7 @@
 #If $4 == "another" only the **first two sequence** should be output
 #---------------------------------------------------------------------
 
-#DOWLOAD by David
+#DOWNLOAD by David
 
 #create script variables
 url_samples=$1
