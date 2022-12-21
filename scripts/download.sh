@@ -1,7 +1,13 @@
 #!/bin/bash
 
+<<<<<<< HEAD
 #Variables definition in downloads
 name_samples=$(basename $1)
+=======
+#DOWNLOAD by David
+
+#create script variables
+>>>>>>> d399ea1b662b53865a3ac6d8e788482728d34fd2
 url_samples=$1
 out_samples=$2
 #$3  #argument 3 contains the word "yes"
