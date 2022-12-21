@@ -1,63 +1,69 @@
-#Download all the files specified in data/filenames
-##for url in $(<list_of_urls>) #TODO
-##do
- ##  bash scripts/download.sh $url data
-##done
-# Download the contaminants fasta file, uncompress it, and
-# filter to remove all small nuclear RNAs
-##bash scripts/download.sh <contaminants_url> res yes #TODO
-# Index the contaminants file
-####bash scripts/index.sh res/contaminants.fasta res/contaminants_idx
-# Merge the samples into a single file
-###for sid in $(<list_of_sample_ids>) #TODO
-##do
-##    bash scripts/merge_fastqs.sh data out/merged $sid
-###done
+#!/bin/bash
 
-# TODO: run cutadapt for all merged files
-# cutadapt -m 18 -a TGGAATTCTCGGGTGCCAAGG --discard-untrimmed \
-#     -o <trimmed_file> <input_file> > <log_file>
+echo "################################################################################"
+echo "########## Decontamination of small-RNA sequencing samples from mouse ##########"
+echo "################################################################################"
+echo "##### by David Rubio #####  Starting pipeline at $(date +'%d %h %y, %r') ##########"
+echo "################################################################################"
 
-# TODO: run STAR for all trimmed files
-###for fname in out/trimmed/*.fastq.gz
-##do
-    # you will need to obtain the sample ID from the filename
-##    sid=#TODO
-    # mkdir -p out/star/$sid
-    # STAR --runThreadN 4 --genomeDir res/contaminants_idx \
-    #    --outReadsUnmapped Fastx --readFilesIn <input_file> \
-    #    --readFilesCommand gunzip -c --outFileNamePrefix <output_directory>
-###done 
-
-# TODO: create a log file containing information from cutadapt and star logs
-# (this should be a single log file, and information should be *appended* to it on each run)
-# - cutadapt: Reads with adapters and total basepairs
-# - star: Percentages of uniquely mapped reads, reads mapped to multiple loci, and to too many loci
-# tip: use grep to filter the lines you're interested in
-##----------------------------------------------------------------------------------------------
-echo " Decontamination of small-RNA sequencing samples from mouse ## by darubioinfo " 
-echo
-
-#Download all the files specified in data/files
-mkdir -p data
-
-
+echo -e "\n\nDonwloading samples...\n\n"
 for url in $(cat data/urls)
 do
-	bash scripts/download.sh $url data yes
+        bash scripts/download.sh $url data
 done
-echo
+echo -e "\n\nDone\n\n"
 
-#Download, uncompress and filter decominants database
+echo -e "\n\nDownloading the fasta file, unzipping and filtering...\n\n"
+bash scripts/download.sh https://bioinformatics.cnio.es/data/courses/decont/contaminants.fasta.gz res yes "filter"
+echo -e "\n\nDone\n\n"
 
-bash scripts/download.sh https://bioinformatics.cnio.es/data/courses/decont/contaminants.fasta.gz res yes "Small_nuclear_RNA"
-echo
 
-#STAR index contaminants file
-echo "Running STAR index..."
-bash scripts/index.sh res/contaminants.fasta res/contaminants_idx
-echo "¡todo bien, continua!"
+echo -e "\n\nCreating the index for alienation...\n\n"
+bash scripts/index.sh res/free_contaminants.fasta res/contaminants_idx
+echo -e "\n\nDone\n\n"
 
-  
+echo -e "\n\nMerging the samples...\n\n"
+mkdir -p out/merged
+for sid in $(ls data/*.gz | cut -d "-" -f1 | sed 's:data/::' | sort | uniq)
+do
+        bash scripts/merge_fastqs.sh data out/merged $sid
+done
+echo -e "\n\nDone\n\n"
 
+echo -e "\n\nRunning cutadapt...\n\n" #remove adapters
+mkdir -p out/trimmed
+mkdir -p log/cutadapt
+chmod 777 out/merged/*.gz
+for  id_sample in $(ls out/merged/*.gz | cut -d "/" -f3 | cut -d "." -f1)
+do cutadapt \
+        -m 18 \
+        -a TGGAATTCTCGGGTGCCAAGG \
+        --discard-untrimmed \
+        -o out/trimmed/${id_sample}.trimmed.fastq.gz out/merged/${id_sample}.fastq.gz > log/cutadapt/${id_sample}.log
+done
+echo -e "\n\nDone\n\n"
+
+echo -e "\n\nRunning STAR for trimmed files...\n\n"
+for fname in out/trimmed/*.fastq.gz
+do
+    sample_id=$(basename $fname .trimmed.fastq.gz)
+    mkdir -p out/star/${sample_id}
+    STAR \
+        --runThreadN 4 \
+        --genomeDir res/contaminants_idx \
+        --outReadsUnmapped Fastx  \
+        --readFilesIn out/trimmed/${sample_id}.trimmed.fastq.gz \
+        --readFilesCommand gunzip -c  \
+        --outFileNamePrefix out/star/${sample_id}/
+done
+echo -e "\n\nDone\n\n"
+
+
+echo -e "\n\nGenerating log...\n\n"
+bash scripts/log.sh
+echo -e "\n\nDone\n\n"
+
+echo -e "\n\nFinally exporting file with environment information\n\n"
+#conda env export --from-history > envs/decont.yaml
+echo -e "\n\n###### Pipeline finished at $(date +'%H:%M:%S') ######\n\n"
 
